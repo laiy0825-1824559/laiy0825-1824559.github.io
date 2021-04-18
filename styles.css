@@ -1,0 +1,45 @@
+body{
+    background-image: url(watercolor.png);
+}
+h2 { 
+    color:black ; font-size: 45px;
+    text-decoration: underline;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px;
+
+}
+label{
+    font-weight: bold;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+}
+legend{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    border:dotted 2px pink;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: 10px;
+    background-color:peachpuff;
+    opacity:0.6;
+    transform: rotate(5deg);
+}
+li{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+th{
+    font-family: Arial, Helvetica, sans-serif;
+}
+fieldset{
+    background-color:pink;
+    float: left;
+
+}
+input{
+    font-family: 'Amatic SC', cursive;
+}
+
